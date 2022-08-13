@@ -9,7 +9,6 @@ edition = "2021"
 [dependencies]
 bevy = "0.8.0"
 
-
 [[example]]
 name = "say-hello"
 path = "src/example/hello.rs"
